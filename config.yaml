@@ -1,0 +1,43 @@
+#####################################
+# Configuration for method evaluation
+#####################################
+exclude:
+    method_overlap:
+        - OncodriveFM
+######################################
+# Configuration for individual methods
+######################################
+TUSON:
+    qvalue:
+        - TUSON.combined.qvalue.OG
+        - TUSON.combined.qvalue.TSG
+    pvalue:
+        - TUSON.combined.pvalue.OG
+        - TUSON.combined.pvalue.TSG
+    consistency:
+        - TUSON.combined.qvalue.OG
+        - TUSON.combined.qvalue.TSG
+2020+:
+    qvalue:
+        - oncogene q-value
+        - tsg q-value
+        - driver q-value
+    pvalue:
+        - driver p-value
+    consistency:
+        - driver q-value
+OncodriveClust:
+    consistency:
+        - PVALUE
+OncodriveFM:
+    consistency:
+        - PVALUE
+ActiveDriver:
+    consistency:
+        - p
+MuSiC:
+    consistency:
+        - P-value FCPT
+MutsigCV:
+    consistency:
+        - p
