@@ -25,7 +25,7 @@ TUSON:
     pvalue:
         - driver p-value
     consistency:
-        - driver q-value
+        - driver p-value
 OncodriveClust:
     consistency:
         - PVALUE

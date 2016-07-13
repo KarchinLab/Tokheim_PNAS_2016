@@ -16,7 +16,7 @@ view the [Introduction.ipynb](https://github.com/KarchinLab/CancerDriverGeneEval
 
 ## Installation
 
-You will need the following python packages if you wish to execute the code:
+You will need the following python packages if you wish to execute the python code in Jupyter:
 
 * numpy
 * scipy
