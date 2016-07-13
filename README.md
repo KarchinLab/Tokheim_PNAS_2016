@@ -11,7 +11,8 @@ A major goal of the huge public investment in large-scale cancer sequencing has 
 ## Jupyter notebooks
 
 We have prepared our evaluation framework into jupyter notebooks (.ipynb files). You can either view
-them on github or execute the evaluation if you install [jupyter](http://jupyter.org/).
+them on github or execute the evaluation if you install [jupyter](http://jupyter.org/). We recommend that you first
+view the [Introduction.ipynb](https://github.com/KarchinLab/CancerDriverGeneEvaluation/blob/master/Introduction.ipynb) file for more details.
 
 ## Installation
 
