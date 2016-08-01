@@ -25,3 +25,7 @@ You will need the following python packages if you wish to execute the python co
 * matplotlib
 * seaborn
 * pandas
+
+## Citation
+
+Tokheim C, Papdopoulis N, Kinzler KW, Vogelstein B, Karchin R (2016) Evaluating the evaluation of cancer driver genes. Submitted [bioRxiv preprint](http://biorxiv.org/content/early/2016/06/23/060426)
